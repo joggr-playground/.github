@@ -28,10 +28,11 @@ This is where we test out new ideas, QA features, and do other things that we ke
 
 Joggr empowers developers to take complete control of their documentation. Joggr allows engineers to:
 
-- :rocket: Automatically generating new documentation
-- :arrows_counterclockwise: Keep existing documentation up-to-date with every code change
-- :mag: Discover documentation by asking a question and getting an answer
+- :rocket: Keep existing documentation up-to-date with every code change
+- :arrows_counterclockwise: Create Pull Requests from Joggr & Review your documentation like you do code.
 - :woman_technologist: Directly integrated into PRs and your IDE
+
+Sign up for our beta @ joggr.io
 
 <!-- @joggr:editLink(ab8a5c1b-3939-4891-92cc-7b8dc1671d5d):start -->
 ---
